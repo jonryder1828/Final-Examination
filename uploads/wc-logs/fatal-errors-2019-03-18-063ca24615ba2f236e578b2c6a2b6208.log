@@ -1,0 +1,8 @@
+2019-03-18T06:13:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xamp\htdocs\finalexam\wp-includes\wp-db.php on line 2007
+
+2019-03-18T06:14:48+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in D:\xamp\htdocs\finalexam\wp-includes\wp-db.php on line 2007
+
+2019-03-18T06:15:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xamp\htdocs\finalexam\wp-includes\wp-db.php on line 2007
+
+2019-03-18T06:15:14+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xamp\htdocs\finalexam\wp-content\plugins\woocommerce\includes\admin\helper\class-wc-helper-options.php on line 2
+
